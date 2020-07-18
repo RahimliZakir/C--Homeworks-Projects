@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\bin\Debug\Object'sConsoleApp.exe.config
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\bin\Debug\Object'sConsoleApp.exe
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\bin\Debug\Object'sConsoleApp.pdb
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\obj\Debug\Object'sConsoleApp.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\obj\Debug\Object'sConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\obj\Debug\Object'sConsoleApp.exe
+C:\Users\Karimova\Desktop\C# - Objects (Data Structures)\Object'sSolution\Object'sConsoleApp\obj\Debug\Object'sConsoleApp.pdb
