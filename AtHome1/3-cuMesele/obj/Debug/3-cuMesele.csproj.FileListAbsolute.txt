@@ -1,0 +1,6 @@
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\bin\Debug\3-cuMesele.exe.config
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\bin\Debug\3-cuMesele.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\bin\Debug\3-cuMesele.pdb
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\obj\Debug\3-cuMesele.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\obj\Debug\3-cuMesele.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\3-cuMesele\obj\Debug\3-cuMesele.pdb
