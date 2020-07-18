@@ -1,0 +1,6 @@
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\bin\Debug\de.exe.config
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\bin\Debug\de.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\bin\Debug\de.pdb
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\obj\Debug\2-ciMesele.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\obj\Debug\de.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\de\obj\Debug\de.pdb
