@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\bin\Debug\12-ciMesele.exe.config
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\bin\Debug\12-ciMesele.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\bin\Debug\12-ciMesele.pdb
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\obj\Debug\12-ciMesele.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\obj\Debug\12-ciMesele.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\obj\Debug\12-ciMesele.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\12-ciMesele\obj\Debug\12-ciMesele.pdb
