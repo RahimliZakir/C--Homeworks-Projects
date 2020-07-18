@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\bin\Debug\Generic Dictionary.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\bin\Debug\Generic Dictionary.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\bin\Debug\Generic Dictionary.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\obj\Debug\Generic Dictionary.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\obj\Debug\Generic Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\obj\Debug\Generic Dictionary.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Dictionary\obj\Debug\Generic Dictionary.pdb

@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\bin\Debug\Non-Generic HashTable.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\bin\Debug\Non-Generic HashTable.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\bin\Debug\Non-Generic HashTable.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\obj\Debug\Non-Generic HashTable.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\obj\Debug\Non-Generic HashTable.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\obj\Debug\Non-Generic HashTable.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic HashTable\obj\Debug\Non-Generic HashTable.pdb

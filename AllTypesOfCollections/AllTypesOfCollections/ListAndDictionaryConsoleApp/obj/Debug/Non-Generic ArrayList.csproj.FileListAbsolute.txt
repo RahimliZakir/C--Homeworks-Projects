@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\bin\Debug\ListAndDictionaryConsoleApp.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\bin\Debug\ListAndDictionaryConsoleApp.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\bin\Debug\ListAndDictionaryConsoleApp.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\obj\Debug\Non-Generic ArrayList.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\obj\Debug\Non-Generic ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\obj\Debug\ListAndDictionaryConsoleApp.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\ListAndDictionaryConsoleApp\obj\Debug\ListAndDictionaryConsoleApp.pdb

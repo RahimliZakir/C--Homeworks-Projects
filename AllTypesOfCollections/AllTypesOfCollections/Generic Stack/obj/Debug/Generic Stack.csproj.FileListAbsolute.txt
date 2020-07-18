@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\obj\Debug\Generic Stack.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\obj\Debug\Generic Stack.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\bin\Debug\Generic Stack.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\bin\Debug\Generic Stack.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\bin\Debug\Generic Stack.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\obj\Debug\Generic Stack.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Stack\obj\Debug\Generic Stack.pdb

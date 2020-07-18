@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\bin\Debug\Generic List.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\bin\Debug\Generic List.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\bin\Debug\Generic List.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\obj\Debug\Generic List.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\obj\Debug\Generic List.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\obj\Debug\Generic List.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic List\obj\Debug\Generic List.pdb

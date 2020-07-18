@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\bin\Debug\Non-Generic SortedList.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\bin\Debug\Non-Generic SortedList.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\bin\Debug\Non-Generic SortedList.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\obj\Debug\Non-Generic SortedList.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\obj\Debug\Non-Generic SortedList.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\obj\Debug\Non-Generic SortedList.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Non-Generic SortedList\obj\Debug\Non-Generic SortedList.pdb

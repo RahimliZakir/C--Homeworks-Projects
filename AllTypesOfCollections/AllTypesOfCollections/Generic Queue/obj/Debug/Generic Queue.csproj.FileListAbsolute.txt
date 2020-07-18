@@ -1,0 +1,7 @@
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\bin\Debug\Generic Queue.exe.config
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\bin\Debug\Generic Queue.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\bin\Debug\Generic Queue.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\obj\Debug\Generic Queue.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\obj\Debug\Generic Queue.exe
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\obj\Debug\Generic Queue.pdb
+C:\Users\Karimova\Desktop\ListAndDictionary\ListAndDictionarySolution\Generic Queue\obj\Debug\Generic Queue.csprojAssemblyReference.cache
