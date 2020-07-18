@@ -1,0 +1,13 @@
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.exe
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.deps.json
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.runtimeconfig.json
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.runtimeconfig.dev.json
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.dll
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\bin\Debug\netcoreapp3.1\1-ciMesele.pdb
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.csprojAssemblyReference.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.AssemblyInfoInputs.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.AssemblyInfo.cs
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.csproj.CoreCompileInputs.cache
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.dll
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.pdb
+C:\Users\Karimova\Desktop\77New folder\SolutionCommon\1-ciMesele\obj\Debug\netcoreapp3.1\1-ciMesele.genruntimeconfig.cache
